@@ -1,3 +1,5 @@
+It is dangerous to travel alone, take this:
+
 Ascii Cat Desktop Companion.
 
 Reacts to things happening on computer, such as working on Visual Studio or Blender.
